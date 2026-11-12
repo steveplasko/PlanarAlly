@@ -1,0 +1,17 @@
+# Aider ignore list
+logs/
+*.log
+*.db
+*.sqlite
+*.pglite
+node_modules/
+target/
+build/
+dist/
+bin/
+obj/
+.venv/
+__pycache__/
+.aider.tags.cache.v4/
+.aider.chat.history.md
+.aider.input.history
